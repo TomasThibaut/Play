@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_slide_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="滑动删除" />
+
+    <Button
+        android:id="@+id/btn_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义ViewPager" />
+
+    <Button
+        android:id="@+id/btn_toggleButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开关按钮" />
+
+    <Button
+        android:id="@+id/btn_fastIndex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="快速索引" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+<!-- From: file:/Users/GXAAA/Desktop/mCode/CustomerViews/app/src/main/res/layout/activity_main.xml -->

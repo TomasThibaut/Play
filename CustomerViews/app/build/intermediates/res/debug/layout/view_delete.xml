@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_delete"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="#999"
+    android:text="@string/view_delete_text"
+    android:textSize="25sp">
+
+</TextView><!-- From: file:/Users/GXAAA/Desktop/mCode/CustomerViews/app/src/main/res/layout/view_delete.xml -->
